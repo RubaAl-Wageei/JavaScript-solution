@@ -7,7 +7,7 @@ for (x=1 ; x<=4 ; x++) {
     {
         console.log (z++)
     }
-  console.log("<br>")
+    console.log('\n');
 }
 
 
